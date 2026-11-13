@@ -1,0 +1,17 @@
+{
+  "format": 1,
+  "channel": "preview",
+  "version": "0.1.0-preview.92.1",
+  "commit": "5140fa3",
+  "published_at": "2026-11-13T12:28:32Z",
+  "notes": [],
+  "files": [
+    {
+      "platform": "windows-x86_64",
+      "name": "mart-0.1.0-preview.92.1-windows-x86_64-setup.exe",
+      "url": "https://github.com/hlorellium/mart-releases/releases/download/v0.1.0-preview.92.1/mart-0.1.0-preview.92.1-windows-x86_64-setup.exe",
+      "size": 25211179,
+      "sha256": "16c2486590b90b70f9303e9bae47b03111db843208b1bc0c916b5780c1277e0e"
+    }
+  ]
+}
